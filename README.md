@@ -55,10 +55,9 @@ Each page includes filters and dynamic visuals for stakeholders to explore the d
 
 ## 📁 Repository Structure
 
-📦 Databel-Customer-Churn-PowerBI
-├── 📄 Databel.csv  # The fictional data provided by the stakeholder
-├── 📄 Databel_Case_Study.pbix
-└── 📄 README.md
+- 📄 Databel.csv  # The fictional data provided by the stakeholder 
+- 📄 Databel_Case_Study.pbix
+- 📄 README.md
 
 
 ---

@@ -55,8 +55,8 @@ Each page includes filters and dynamic visuals for stakeholders to explore the d
 
 ## 📁 Repository Structure
 
-- 📄 Databel.csv  # The fictional data provided by the stakeholder 
-- 📄 Databel_Case_Study.pbix
+- 📄 Databel.csv  - the fictional data provided by the stakeholder 
+- 📄 Databel_Case_Study.pbix  - file with the 5 dashboard pages
 - 📄 README.md
 
 
@@ -75,10 +75,10 @@ Each page includes filters and dynamic visuals for stakeholders to explore the d
 ## 🧠 Skills Demonstrated
 
 - Power BI data modeling
-- DAX (advanced functions, logical conditions, dynamic calculations)
-- Visual storytelling
+- DAX (various functions, logical conditions, dynamic calculations, variables, creating new column, etc)
+- Visual storytelling by choosing the right chart and element 
 - Interactive report design
-- Business insight generation from raw data
+- Business insight generation from raw data achieved by understanding the data, analyzing customer behavior across contract types, usage patterns, and service plans, etc
 
 ---
 

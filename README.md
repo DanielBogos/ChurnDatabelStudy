@@ -1,6 +1,6 @@
 # 📊 Customer Churn Analysis – Power BI Project
 
-This repository contains a Power BI project analyzing customer churn data for a fictional mobile network operator, **Databel**. The main objective of this analysis is to uncover the key drivers behind customer churn and provide actionable insights to reduce it.
+This repository contains a Power BI project analyzing customer churn data for a fictional mobile network operator, **Databel**.
 
 ---
 
